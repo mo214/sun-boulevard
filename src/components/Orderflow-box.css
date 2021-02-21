@@ -1,0 +1,32 @@
+.Flow-box {
+    position: relative;
+    border: 5px solid #007DDB;
+    width: 10%;
+    height: 428px;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-top: -18%;
+    margin-right: 29%;
+}
+
+.flowbox-content {
+    
+    display: flex;
+   align-content: center;
+    flex-direction: column;
+}
+
+.Order-btn {
+    background-color: #BA2329;
+    border: none;
+    color: white;
+    padding: 12px 107px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 118%;
+    border-radius: 20px;
+}
+
